@@ -1,0 +1,3 @@
+[submodule "plt-hook/third_party/plthook"]
+	path = plt-hook/third_party/plthook
+	url = git@github.com:kubo/plthook.git
