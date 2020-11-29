@@ -1,4 +1,4 @@
-[toc]
+[[_TOC_]]
 
 # 1 什么是PLT Hook？
 
